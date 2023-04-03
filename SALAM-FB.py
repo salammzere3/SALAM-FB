@@ -145,7 +145,7 @@ def logo2():
   \______/ \__|  \__|\________|\__|  \__|\__|     \__|
   						      \033[1;33mV.1
          
- @T5B55
+
 \033[1;36m__________________×______________________\n
    {M}>{K}>{H}> {P}CHECKING FOR LOGIN {H}>{K}>{M}>
 \033[1;36m\n__________________×______________________
@@ -421,6 +421,8 @@ def cek_opsi_cp():
 #UPTATE#
 def update_tool():
 	import time
+	token = open('.token.txt','r').read()
+	cok = open('.cok.txt','r').read()
 	os.system('rm -rf SALAM-FB')
 	os.system('git clone https://github.com/salammzere3/SALAM-FB')
 	os.system(' cd SALAM-FB')
