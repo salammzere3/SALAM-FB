@@ -1,9 +1,9 @@
 <h1 align="center">SALAM-FB</h1>
-<p align="center">It is a useful project for developers that includes useful tools for Instagram</p>
+<p align="center">It is a useful project for developers that includes useful tools for Python</p>
 
 ![](https://img.shields.io/badge/salammzere3-orange?style=for-the-badge&logo=python.svg) 
 <p align="center">
-<a href="#"><img title="Made in KURD" src="https://img.shields.io/badge/MADE%20IN-IRQ-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Made in KURD" src="https://img.shields.io/badge/MADE%20IN-KURD-red.svg?style=for-the-badge&logo=github"></a>
 
 </p>
 <p align="center">
