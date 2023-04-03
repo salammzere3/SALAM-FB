@@ -1,9 +1,9 @@
-<h1 align="center">SalamHunter</h1>
+<h1 align="center">SALAM-FB</h1>
 <p align="center">It is a useful project for developers that includes useful tools for Instagram</p>
 
 ![](https://img.shields.io/badge/salammzere3-orange?style=for-the-badge&logo=python.svg) 
 <p align="center">
-<a href="#"><img title="Made in IRQ" src="https://img.shields.io/badge/MADE%20IN-IRQ-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Made in KURD" src="https://img.shields.io/badge/MADE%20IN-IRQ-red.svg?style=for-the-badge&logo=github"></a>
 
 </p>
 <p align="center">
@@ -20,12 +20,13 @@
 
 ### Usage
 
-``` python
 pkg install python -y
+
 git clone https://github.com/salammzere3/SALAM-FB
+
 cd SALAM-FB
+
 python SALAM-FB.py
-```
 	
 ## Follow us on social media
 [![Github](https://img.shields.io/badge/Githusalammzere3-orange?style=for-the-badge&logo=github)](https://github.com/salammzere3/)
