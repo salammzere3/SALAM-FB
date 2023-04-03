@@ -17,42 +17,14 @@
 <a href="https://github.com/salammzere3/followers"><img title="Followers" src="https://img.shields.io/github/followers/salammzere3?color=blue&style=flat-square"></a>
 </p>
 
-## Installation :
-```
-pip install SalamHunter
-```
-### Login Usage
+
+### Usage
 
 ``` python
-from SalamHunter import *
-
-username = "<your email or phone or username>"
-password ="<your password >"
-SalamReq = salammzere3.Instalogin(str(username),str(password))
-
-if SalamReq['status'] =='Success':
-	print ("login successful")
-	
-elif SalamReq['status'] =='challenge_required':
-	print("Error account is security")
-elif SalamReq['status'] =='error_login':
-	print("Error account is bad")
-
-```
-### Get Available Gmail
-
-```python
-from SalamHunter import *
-
-email = "enter_email@gmail.com"
-gmail = salammzere3.gmail(email)
-
-
-if gmail['status'] == 'Success':
-    print('available email:',email)
-
-else:
-    print('not found email:',email)
+pkg install python -y
+git clone https://github.com/salammzere3/SALAM-FB
+cd SALAM-FB
+python SALAM-FB.py
 ```
 	
 ## Follow us on social media
